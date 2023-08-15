@@ -16,6 +16,7 @@
 ### 🎓 Education
 - B.Eng. in [Computer Science & Engineering](https://wwwce.hongik.ac.kr/dept/index.html), Hongik University *2014. 03. ~ 2021. 02.*
 
+<br>
 
 ## ⚒ Tech Skill
 |Classification|Skills|
@@ -26,10 +27,16 @@
 |Language - Useable|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)|
 |ETC|![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
+<br>
 
+## Github Status
 ![CodeJin19's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeJin19&show_icons=true&theme=vue-dark)
 
+<br>
+
+## acmicpc status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=codejin)](https://solved.ac/codejin/)
+
 <!--
 ## 🌏 Other Experience
 ### 📝 Project
